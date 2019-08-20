@@ -1,6 +1,6 @@
 
 server:
-  port: ${PORT:8080} #the default port used for zuul service
+  port: ${PORT:8762} #the default port used for zuul service
   
 zuul:
   ignoredServices: '*'
